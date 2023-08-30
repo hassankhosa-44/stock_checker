@@ -1,16 +1,9 @@
-# README
+# Stock Checker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+## Common dev tasks
 
 * Ruby version
   `ruby 2.7.3`
-
-* System dependencies
-
-* Configuration
 
 * To Run the application you need to follow following steps:
   1. GoTo project directory
@@ -41,6 +34,3 @@ Things you may want to cover:
   - Used hashes to return url details i.e in stock or out of stock, as hash key mapping are fast to access
   - Used `open-uri` library to parse url request because using `Net:Http` gives redirection error which is handled in open-uri
 
-* Deployment instructions
-
-* ...
